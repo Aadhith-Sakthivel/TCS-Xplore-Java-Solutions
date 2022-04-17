@@ -1,7 +1,8 @@
 Question 1 :
 Write main method in Solution class.
 
-In the main method, write code to read a numeric digit(without any alphabets or special characters) using Scanner and print it in the reverse sequence as they appear in the input.
+In the main method, write code to read a numeric digit(without any alphabets or special characters) using Scanner and print it in the
+reverse sequence as they appear in the input.
 
 Consider below sample input and output:
 
