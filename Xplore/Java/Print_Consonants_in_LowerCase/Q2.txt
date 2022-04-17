@@ -1,0 +1,38 @@
+Question 3 :
+
+
+Write main method in Solution class.
+
+
+In the main method, read a String and print all consonants characters
+(in lower case) in the sequence as they appear in the input value. 
+
+
+Please note: The consonants are characters that are not vowels.
+
+
+Sample input:
+DATABase
+
+Output:
+dtbs
+
+
+
+--------------------------------------------------
+Sample code snippet for reference:
+Please use below code to build your solution.
+--------------------------------------------------
+
+public class Solution
+{
+
+public static void main(String[] args)
+{
+//code to read values
+//code to display the result
+}
+
+}
+
+-------------------------------------------------
