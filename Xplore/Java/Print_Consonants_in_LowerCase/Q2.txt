@@ -1,4 +1,4 @@
-Question 3 :
+Question 2:
 
 
 Write main method in Solution class.
